@@ -6,3 +6,12 @@
   text-decoration: none;
   outline: none;
 }
+
+input{
+  border: 1px solid #3F3F3F;
+  border-radius: 1.5em;
+  margin: 5% auto 5% auto;
+  padding: 1%;
+  width: 30%;
+  text-align: left;
+}
